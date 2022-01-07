@@ -24,3 +24,5 @@ Question 3
 
 Question 4
 
+(Q=win*5
+Running time: 12.343977689743042 Seconds
